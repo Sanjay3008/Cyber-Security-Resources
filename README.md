@@ -1,6 +1,6 @@
 # Cyber-Security-Resources and courses
 
-[Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)
+<u>[Open-Source Intelligence(OSINT) Fundamentals By Heath Adams](https://mega.nz/folder/AmQVzCZB#XdSJsQMO8CfSropqjDFFnw)</u>
 
 [TCMSecurity - Linux Privilege Escalation for Beginners](https://mega.nz/folder/viRBGIiR#B_UW6lMw2ODS5Obd1EOtBA)
 
